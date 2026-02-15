@@ -1,0 +1,14 @@
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\bin\Debug\net9.0\CartaoGitCopilot.exe
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\bin\Debug\net9.0\CartaoGitCopilot.deps.json
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\bin\Debug\net9.0\CartaoGitCopilot.runtimeconfig.json
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\bin\Debug\net9.0\CartaoGitCopilot.dll
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\bin\Debug\net9.0\CartaoGitCopilot.pdb
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\obj\Debug\net9.0\CartaoGitCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\obj\Debug\net9.0\CartaoGitCopilot.AssemblyInfoInputs.cache
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\obj\Debug\net9.0\CartaoGitCopilot.AssemblyInfo.cs
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\obj\Debug\net9.0\CartaoGitCopilot.csproj.CoreCompileInputs.cache
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\obj\Debug\net9.0\CartaoGitCopilot.dll
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\obj\Debug\net9.0\refint\CartaoGitCopilot.dll
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\obj\Debug\net9.0\CartaoGitCopilot.pdb
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\obj\Debug\net9.0\CartaoGitCopilot.genruntimeconfig.cache
+C:\dev\CartaoGitCopilot\CartaoGitCopilot\obj\Debug\net9.0\ref\CartaoGitCopilot.dll
